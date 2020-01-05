@@ -11,3 +11,6 @@ El set de datos a analizar se descargó del siguiente enlace: https://www.peacea
 **data**: contiene el set de datos original y otro obtenido a partir de procesos de limpieza y preparación, para la construcción de un word cloud.  
 **doc**: archivos .docx y .pdf con respuesta a las preguntas relacionadas en la práctica.  
 **src**: código fuente del proyecto en formato .twb .  
+
+**Acceso al proyecto en Tableau Public**   
+https://public.tableau.com/profile/uoc.data.vis#!/vizhome/AcuerdosPazMundial/PPCO
