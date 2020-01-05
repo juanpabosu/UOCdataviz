@@ -1,5 +1,5 @@
 # Proyecto Visualización de Datos - Procesos de Paz en Colombia
-**Universidad Oberta de Catalunya
+**Universidad Oberta de Catalunya  
 Juan Pablo Botero Suaza, jboteros@uoc.edu**    
 
 En esta práctica se elabora un caso práctico orientado a aprender a identificar los datos relevantes para un proyecto de visualización de datos y usar las herramientas de integración, limpieza, validación y análisis de las mismas.  Para ello se hará uso de la herramienta Tablea Desktop y su integración con Tableau Public para la presentación de los resultados.  
