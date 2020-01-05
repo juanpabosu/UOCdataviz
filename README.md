@@ -2,9 +2,9 @@
 **Universidad Oberta de Catalunya  
 Juan Pablo Botero Suaza, jboteros@uoc.edu**    
 
-En esta práctica se elabora un caso práctico orientado a aprender a identificar los datos relevantes para un proyecto de visualización de datos y usar las herramientas de integración, limpieza, validación y análisis de las mismas.  Para ello se hará uso de la herramienta Tablea Desktop y su integración con Tableau Public para la presentación de los resultados.  
+En esta práctica se elabora un caso práctico orientado a aprender a identificar los datos relevantes para un proyecto de visualización de datos y usar las herramientas de integración, limpieza, validación y análisis del mismo.  Para ello se hará uso de la herramienta Tableau Desktop y su integración con Tableau Public para la presentación de los resultados.  
 
-El set de datos a analizar se descargó del siguiente enlace en kaggle.com: https://www.peaceagreements.org/ 
+El set de datos a analizar se descargó del siguiente enlace: https://www.peaceagreements.org/ 
 
 **Descripción de los ficheros**  
 
